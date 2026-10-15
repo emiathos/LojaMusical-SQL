@@ -1,6 +1,5 @@
 # LojaMusical-SQL
 Projeto prático de aprendizado de SQL Server e bancos de dados relacionais.
-# LojaMusical-SQL
 
 ## Sobre o projeto
 
